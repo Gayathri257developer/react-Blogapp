@@ -1,3 +1,3 @@
-have a look:
+#React-Blog-app
 
 https://gayathri-react-blog-app.netlify.app/
